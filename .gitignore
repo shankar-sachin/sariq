@@ -17,8 +17,8 @@
 mono_crash.*
 
 # Ignore AI files
-/CLAUDE.md
-/copilot-instructions.md
+CLAUDE.md
+copilot-instructions.md
 
 # Build results
 [Dd]ebug/
