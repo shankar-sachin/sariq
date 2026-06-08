@@ -16,6 +16,10 @@
 # Mono auto generated files
 mono_crash.*
 
+# Ignore AI files
+/CLAUDE.md
+/copilot-instructions.md
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
